@@ -21,3 +21,4 @@ Technologies used in the project:
 
 *   Firebase
 *   React-Native
+*   Tailwind
