@@ -38,10 +38,10 @@ npx expo start
 ```
 This will start the Expo development server, and a new tab will open in your default web browser with the Expo DevTools.
 
-### Connect Android Device
-1. Open the Expo Go app on your Android device.
+### Connect Android/IOS Device
+1. Open the Expo Go app on your Android/IOS device.
 2. Scan the QR code displayed in the Expo DevTools or console. You can find it in the terminal where you started the Expo development server.
-3. Wait for the app to load on your Android device.
+3. Wait for the app to load on your Android/IOS device.
 
 ### Explore the App
 Once the app is loaded on your Android device, you can explore the Seamless File Sharing App and test its features.
