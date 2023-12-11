@@ -1,12 +1,11 @@
 # Seamless File Sharing App
 
-![project-image](https://socialify.git.ci/UrvaSuthar/v-1.2.0/image?description=1&descriptionEditable=Welcome%20to%20FamilyLink%2C%20where%20seamless%20file%20sharing%20meets%20family%20unity.%20Our%20app%20connects%20you%20to%20a%20secure%20server%2C%20storing%20all%20your%20important%20files%20for%20easy%20access%20and%20sharing%20within%20your%20family%20group.%20Share%2C%20collaborate%2C%20and%20cherish%20moments%20together%20effortlessly.%20Experience%20the%20power%20of%20FamilyLink%20-%20bringing%20families%20closer%2C%20one%20file%20at%20a%20time.&font=Inter&name=1&pattern=Plus&theme=Auto)
 
 ## Description
-Welcome to FileStore where seamless file sharing meets family unity. Our app connects you to a secure server storing all your important files for easy access and sharing within your family group. Share, collaborate, and cherish moments together effortlessly. Experience the power of FamilyLink - bringing families closer one file at a time.
+Welcome to FileStore where seamless file sharing meets family unity. Our app connects you to a secure server storing all your important files for easy access and sharing within your family group. Share, collaborate, and cherish moments together effortlessly. Experience the power of FileStore - bringing families closer one file at a time.
 
 ## Features
-- Sync Files to the server
+- Share Files to the server
 - Access shared files on any devices at any time
 
 ## Built with
