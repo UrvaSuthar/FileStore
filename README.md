@@ -24,8 +24,8 @@ Technologies used in the project:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/UrvaSuthar/v-1.2.0.git
-cd v-1.2.0
+git clone https://github.com/UrvaSuthar/FileStore.git
+cd FileStore
 ```
 ### Install Dependencies
 ```bash
