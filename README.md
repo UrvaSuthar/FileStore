@@ -46,4 +46,4 @@ This will start the Expo development server, and a new tab will open in your def
 ### Explore the App
 Once the app is loaded on your Android device, you can explore the Seamless File Sharing App and test its features.
 
-Now you have successfully run the Expo project on your Android device using Expo Go. Happy coding! 🚀
+Now you have successfully run the Expo project on your Android/IOS device using Expo Go. Happy coding! 🚀
